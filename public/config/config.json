@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x59190714cae4382beeb68701946b9bc042d33176",
+  "SCAN_LINK": "https://polygonscan.com/address/0x59190714cae4382beeb68701946b9bc042d33176",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Roundox",
+  "SYMBOL": "RX100",
+  "MAX_SUPPLY": 21500,
+  "WEI_COST": 75000000000000000,
+  "DISPLAY_COST": 0.075,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/roundox",
+  "SHOW_BACKGROUND": true
+}
