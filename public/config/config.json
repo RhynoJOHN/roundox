@@ -11,7 +11,7 @@
   "MAX_SUPPLY": 21500,
   "WEI_COST": 1000000000000000000,
   "DISPLAY_COST": 1,
-  "GAS_LIMIT": 410000,
+  "GAS_LIMIT": 350000,
   "MARKETPLACE": "Opensea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/roundox",
   "SHOW_BACKGROUND": true
